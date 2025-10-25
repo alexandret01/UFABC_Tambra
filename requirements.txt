@@ -4,10 +4,6 @@ seaborn
 matplotlib
 scikit-learn
 tensorflow
-scipy
-sympy
-plotly
-xgboost
-imbalanced-learn
 flaml
 lightgbm
+imbalanced-learn
